@@ -13,6 +13,9 @@ A transformação de dados em conhecimento é um processo fundamental na seguran
 3. **Conhecimento**: Compreensão e aplicação contextualizada da informação.
 
 
+<img width="545" height="220" alt="image" src="https://github.com/user-attachments/assets/1a75726a-d6ac-4485-b9cb-86fda181b09a" />
+
+
 
 Na cibersegurança, logs de sistema são **dados** que, quando analisados, tornam-se **informações** sobre ameaças. A experiência em interpretar esses padrões e tomar ações preventivas representa o **conhecimento** do profissional.
 
@@ -61,6 +64,9 @@ Na cibersegurança, logs de sistema são **dados** que, quando analisados, torna
 ---
 
 ## O Cubo de McCumber: Uma Visão 3D da Segurança
+
+<img width="305" height="273" alt="image" src="https://github.com/user-attachments/assets/0f4445db-e9d7-45c5-8917-46ea24426b68" />
+
 
 O Cubo de McCumber é um modelo tridimensional que auxilia na avaliação e implementação da segurança, considerando:
 
@@ -114,6 +120,9 @@ Protege contra interrupções de serviço e falhas de hardware.
 
 ## Dimensão 2: Estados da Informação
 
+<img width="652" height="254" alt="image" src="https://github.com/user-attachments/assets/69e72f98-bd7e-41b6-bfc3-207d14e7717e" />
+
+
 1. **Processamento**: Dados sendo usados em uma operação.
 
 
@@ -158,6 +167,9 @@ Medidas para garantir a segurança durante a movimentação de informações:
 
 
 ## 3. Dimensão 3: Controles de Segurança
+
+<img width="681" height="280" alt="image" src="https://github.com/user-attachments/assets/3afe63d6-0235-4fa4-ac8b-2485204b4c40" />
+
 
 A segurança é implementada através de três pilares principais:
 
@@ -298,6 +310,9 @@ Os controles atuam em diferentes momentos do ciclo de proteção:
 
 ### Camadas de Proteção
 
+<img width="384" height="232" alt="image" src="https://github.com/user-attachments/assets/2f29b4ac-3b0c-484f-8c78-de96983eac9e" />
+
+
 1. **Prevenção**: Primeira linha de defesa.
 
 
@@ -364,6 +379,9 @@ O documento referencia a norma **ABNT NBR ISO/IEC 27005:2019**, que orienta a ge
 ---
 
 # Framework, Guias e Modelos (gov.br)
+
+<img width="652" height="399" alt="image" src="https://github.com/user-attachments/assets/a2323581-d989-4e56-b55a-3f583d9d089b" />
+
 
 No âmbito do Programa de Privacidade e Segurança da Informação (PPSI) do governo brasileiro, órgãos devem adotar o **Framework de Privacidade e Segurança da Informação**.
 
