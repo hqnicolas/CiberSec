@@ -1,5 +1,5 @@
 # CiberSegurança
-ula02](/Aula02) Ameaças, VulnerabilidadesRepositório de "Olá mundo" de CiberSegurança
+Repositório de "Olá mundo" de CiberSegurança
 
 ---
 
