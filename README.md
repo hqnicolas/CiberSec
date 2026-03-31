@@ -7,5 +7,6 @@ Repositório de "Olá mundo" de CiberSegurança
 - [Aula02](/Aula02) Tipos de Ameaças e Vulnerabilidades
 - [Aula03](/Aula03) Criptografia Básica e Controle de Acesso 
 - [Aula04](/Aula04) Boas Práticas e Segurança em Redes
+- [Aula05](/Aula05) Engenharia Social e Phishing
 
 ---
