@@ -1,12 +1,3 @@
-**PALESTRANTES E PARTICIPANTES**
-* Leonardo Lemes Fagundes 
-* William Bianchi Tavares 
-* Guilherme de Moraes 
-* Anderson Farias 
-* Giuseppe Lamberto (Itália) 
-
----
-
 CIBERSEGURANÇA E INFRAESTRUTURA CRÍTICA 
 
 **Riscos, Ameaças e o Caminho para a Resiliência Nacional** *Leonardo Lemes Fagundes - Professor Universitário Especialista em Segurança Cibernética* 
