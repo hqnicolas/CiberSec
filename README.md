@@ -9,5 +9,7 @@ Repositório de "Olá mundo" de CiberSegurança
 - [Aula04](/Aula04) Boas Práticas e Segurança em Redes
 - [Aula05](/Aula05) Engenharia Social e Phishing
 - [Aula06](/Aula06) Arquitetura, Operações e Motivações de Atores de Ameaça
+- [Aula07](/Aula07) Riscos, Ameaças e o Caminho para a Resiliência Nacional
+- [Aula08](/Aula08) Panorama, ameaças e o caminho para profissionais de InfoSec
 
 ---
