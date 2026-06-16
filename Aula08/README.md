@@ -1,3 +1,12 @@
+**PALESTRANTES E PARTICIPANTES**
+* Leonardo Lemes Fagundes 
+* William Bianchi Tavares 
+* Guilherme de Moraes 
+* Anderson Farias 
+* Giuseppe Lamberto (Itália) 
+
+---
+
 CIBERSEGURANÇA E INFRAESTRUTURA CRÍTICA 
 
 **Riscos, Ameaças e o Caminho para a Resiliência Nacional** *Leonardo Lemes Fagundes - Professor Universitário Especialista em Segurança Cibernética* 
@@ -54,9 +63,7 @@ As Principais Ameaças em Operação
 
 | Ameaça | Descrição |
 | --- | --- |
-| Ransomware | Alto impacto. Criptografa dados e sistemas, exigindo resgate. Pode paralisar operações inteiras por dias ou semanas. 
-
- |
+| Ransomware | Alto impacto. Criptografa dados e sistemas, exigindo resgate. Pode paralisar operações inteiras por dias ou semanas.  |
 | DDoS | Escala massiva. Sobrecarregam serviços até derrubá-los. Usados por hacktivistas e como cortina de fumaça para ataques paralelos mais sofisticados. |
 | Roubo de Dados | Espionagem. Extração silenciosa de informações sensíveis, segredos de Estado e propriedade intelectual. O dano pode levar anos para se manifestar. |
 | Sabotagem OT/ICS | A ameaça mais crítica. Ataca PLCs e SCADA com potencial de causar danos físicos reais: explosões, apagões e falhas em usinas. |
